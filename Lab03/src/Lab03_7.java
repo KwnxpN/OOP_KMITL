@@ -1,0 +1,11 @@
+import java.util.*;
+public class Lab03_7 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("กรุณาระบุความสูงตึก : ");
+        int height = sc.nextInt();
+        for (int i = 0; i < height; i++) {
+            System.out.println("#-#-#-#-#");
+        }
+    }
+}
