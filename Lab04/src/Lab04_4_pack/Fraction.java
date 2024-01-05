@@ -1,3 +1,5 @@
+package Lab04_4_pack;
+
 public class Fraction {
     public int topN;
     public int btmN;

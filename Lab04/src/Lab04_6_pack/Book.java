@@ -1,3 +1,5 @@
+package Lab04_6_pack;
+
 public class Book {
     public String title;
     public String author;

@@ -1,3 +1,5 @@
+package Lab04_3_pack;
+
 public class Student {
     public String name;
     public double mScore;

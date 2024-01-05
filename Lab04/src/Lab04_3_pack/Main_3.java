@@ -1,3 +1,5 @@
+package Lab04_3_pack;
+
 public class Main_3 {
     public static void main(String[] args) {
         Student s = new Student();

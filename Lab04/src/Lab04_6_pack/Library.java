@@ -1,3 +1,8 @@
+package Lab04_6_pack;
+
+
+import Lab04_6_pack.Book;
+
 public class Library {
     public String libraryName;
     public Book book1, book2, book3;

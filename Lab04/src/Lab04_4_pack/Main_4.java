@@ -1,3 +1,8 @@
+package Lab04_4_pack;
+
+
+import Lab04_4_pack.Fraction;
+
 public class Main_4 {
     public static void main(String[] args) {
         Fraction f1 = new Fraction();

@@ -1,3 +1,5 @@
+package Lab04_2_pack;
+
 import java.util.*;
 public class Lab04_2 {
     public static void main(String[] args) {

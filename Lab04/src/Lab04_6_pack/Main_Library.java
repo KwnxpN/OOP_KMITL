@@ -1,3 +1,9 @@
+package Lab04_6_pack;
+
+
+import Lab04_6_pack.Library;
+import Lab04_6_pack.Book;
+
 public class Main_Library {
     public static void main(String[] args) {
         Book book1 = new Book();
