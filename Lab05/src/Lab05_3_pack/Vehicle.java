@@ -6,7 +6,7 @@ package Lab05_3_pack;
 
 /**
  *
- * @author GF65
+ * @author Sudlor
  */
 public class Vehicle {
     private int fuel;

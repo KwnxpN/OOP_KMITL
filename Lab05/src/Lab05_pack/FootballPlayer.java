@@ -6,7 +6,7 @@ package Lab05_pack;
 
 /**
  *
- * @author GF65
+ * @author Sudlor
  */
 public class FootballPlayer extends Player{
     private int playerNumber;
