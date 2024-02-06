@@ -16,7 +16,7 @@ public class Plane extends Vehicle implements Flyable {
         this(0.0, "", "");
     }
     public Plane(double fuel, String airline, String boeing) {
-        this.setFuel(fuel);
+        this.fuel = fuel;
         this.airline = airline;
         this.boeing = boeing;
     }
