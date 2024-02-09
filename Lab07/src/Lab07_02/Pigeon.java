@@ -35,7 +35,7 @@ public class Pigeon extends Bird {
     @Override
     public void fly() {
         if (getWeight() >= 5) {
-            System.out.println("Fly Fly.");
+            System.out.println("Fly Fly");
             setWeight(getWeight() - 0.25);
         }
         else {

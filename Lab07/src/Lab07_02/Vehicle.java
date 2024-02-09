@@ -8,7 +8,7 @@ package Lab07_02;
  *
  * @author Admin
  */
-public abstract class Vehicle {
+public abstract class Vehicle implements Dieselable {
     protected double fuel;
     public Vehicle() {
         this(0.0);
