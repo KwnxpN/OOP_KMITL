@@ -1,8 +1,6 @@
 package Lab07_01;
 
 
-import Lab07_01.CheckingAccount;
-
 public class Customer {
     private String firstName;
     private String lastName;

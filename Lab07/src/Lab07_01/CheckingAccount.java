@@ -1,9 +1,6 @@
 package Lab07_01;
 
 
-import Lab07_01.Account;
-
-
 public class CheckingAccount extends Account {
 
     private double credit;
