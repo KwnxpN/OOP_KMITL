@@ -68,7 +68,7 @@ public class TellerGUI implements ActionListener {
             amo.setText("");
         }
         else if(e.getSource() == exit) {
-            fr.dispose();
+            System.exit(0);
         }
     }
 }
