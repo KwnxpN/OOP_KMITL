@@ -65,7 +65,7 @@ public class TellerGUI implements ActionListener {
         else if(e.getSource() == depo) {
             acc.setBalance(acc.getBalance() + Double.parseDouble(amo.getText()));
             bal.setText(String.valueOf(acc.getBalance()));
-            amo.setText("");
+            amo.setText("");    
         }
         else if(e.getSource() == exit) {
             System.exit(0);
